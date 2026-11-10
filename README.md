@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 SkillBridge – AI-Powered Freelance Marketplace & Talent Intelligence Platform
 
 > **Connecting Skills, Opportunities and Trusted Collaborations.**
@@ -120,3 +121,4 @@ SkillBridge features **1-Click Demo Evaluation buttons** right on the Landing Pa
 
 ## 📄 License
 Released under the [MIT License](LICENSE).
+# 🚀 SkillBridge
